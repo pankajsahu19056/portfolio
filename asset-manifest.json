@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pankajsahu19056/portfolio/static/css/main.ede1edec.chunk.css",
+    "main.js": "/pankajsahu19056/portfolio/static/js/main.e6043138.chunk.js",
+    "main.js.map": "/pankajsahu19056/portfolio/static/js/main.e6043138.chunk.js.map",
+    "runtime-main.js": "/pankajsahu19056/portfolio/static/js/runtime-main.648d9b80.js",
+    "runtime-main.js.map": "/pankajsahu19056/portfolio/static/js/runtime-main.648d9b80.js.map",
+    "static/js/2.b06002cd.chunk.js": "/pankajsahu19056/portfolio/static/js/2.b06002cd.chunk.js",
+    "static/js/2.b06002cd.chunk.js.map": "/pankajsahu19056/portfolio/static/js/2.b06002cd.chunk.js.map",
+    "index.html": "/pankajsahu19056/portfolio/index.html",
+    "precache-manifest.1ddb8128ce8605cce250e3e09bdaad85.js": "/pankajsahu19056/portfolio/precache-manifest.1ddb8128ce8605cce250e3e09bdaad85.js",
+    "service-worker.js": "/pankajsahu19056/portfolio/service-worker.js",
+    "static/css/main.ede1edec.chunk.css.map": "/pankajsahu19056/portfolio/static/css/main.ede1edec.chunk.css.map",
+    "static/js/2.b06002cd.chunk.js.LICENSE.txt": "/pankajsahu19056/portfolio/static/js/2.b06002cd.chunk.js.LICENSE.txt",
+    "static/media/mock1.png": "/pankajsahu19056/portfolio/static/media/mock1.456d27d3.png",
+    "static/media/mock2.png": "/pankajsahu19056/portfolio/static/media/mock2.37e11540.png",
+    "static/media/mock3.png": "/pankajsahu19056/portfolio/static/media/mock3.6a736fcd.png",
+    "static/media/mock4.png": "/pankajsahu19056/portfolio/static/media/mock4.bd6a383d.png",
+    "static/media/self.png": "/pankajsahu19056/portfolio/static/media/self.6eaa70fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.648d9b80.js",
+    "static/js/2.b06002cd.chunk.js",
+    "static/css/main.ede1edec.chunk.css",
+    "static/js/main.e6043138.chunk.js"
+  ]
+}
