@@ -11,7 +11,7 @@ export const info = {
     gradient: `linear-gradient(135deg, ${colors})`,
     miniBio: [ 
         ["☕️", "Fueled by coffee"],
-        ["🇺🇸", "Based in india"],
+        ["🇮🇳", "Based in india"],
         ["💼", "student at delhi-university"],
         ["✉️", "pankajsahu19056@gmail.com"],
     ],
