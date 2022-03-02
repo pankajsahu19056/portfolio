@@ -2,7 +2,7 @@
 
 This project is portfolio 
 link to my portfolio
-<a href="https://pankajsahu19056.github.io/portfolio/"> link to portfolio</a>
+<a href="https://pankajsahh.github.io/portfolio/"> link to portfolio</a>
 
 ## Available Scripts
 
